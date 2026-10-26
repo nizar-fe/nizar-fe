@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nizar 👋</h1>
 
 <p align="center">
-  Front-End Engineer specializing in React, Next.js, Flutter, and TypeScript.
+  Front-End Engineer specializing in React, Vite.js, Next.js, and TypeScript.
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 - 🇮🇩 Front-End Engineer based in Indonesia
 - 💼 Building modern web & mobile applications for HRIS, ERP, dashboards, and enterprise systems
-- ⚛️ Specialized in React, Next.js, Flutter, and TypeScript
+- ⚛️ Specialized in React, Vite.js, Next.js, and TypeScript
 - 📱 Experienced in Flutter with SQLite, Supabase, and REST API integration
 - 🎨 Passionate about clean UI, reusable components, and scalable architecture
 - ⚡ Focused on performance, accessibility, responsiveness, and developer experience
@@ -40,7 +40,6 @@
 - Next.js App Router
 - TanStack Ecosystem
 - React Query
-- Flutter Architecture
 - SQLite Optimization
 - Supabase
 - Authentication & Authorization
@@ -58,13 +57,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
----
-
-## Mobile
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
 ---
 
@@ -97,7 +89,6 @@
 
 ![REST API](https://img.shields.io/badge/REST_API-02569B)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
 ---
@@ -167,29 +158,6 @@ Modern Human Resource Information System (HRIS).
 - Organization Structure
 - Dashboard Analytics
 - Role-Based Access Control (RBAC)
-
----
-
-## 📱 Flutter ERP Mobile
-
-Cross-platform ERP & HRIS mobile application.
-
-### Tech Stack
-
-- Flutter
-- Dart
-- SQLite
-- Supabase
-- REST API
-
-### Features
-
-- Authentication
-- Dashboard
-- Employee Management
-- Attendance
-- Offline Storage
-- Online Synchronization
 
 ---
 
